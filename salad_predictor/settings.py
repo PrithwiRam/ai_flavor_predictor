@@ -30,7 +30,8 @@ SECRET_KEY = 'djtgyujkango-insecure-s6=o@29f%c=k0l3by3d#fi2q_ei1t^5hh_nph5#2h964
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ai-flavor-predictor-1.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
